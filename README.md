@@ -17,6 +17,7 @@ A simple web application that allows users to change the background color to a r
   ## File Structure
 
 ColorChanger/
+
 ├── index.html                        # HTML structure
 
 ├── style.css                        # Styles for the app
